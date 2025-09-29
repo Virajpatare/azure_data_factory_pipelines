@@ -1,5 +1,5 @@
 {
-	"name": "git_to_datalake_dynamic",
+	"name": "adventure_etl_dyanmmic_git_to_datalake",
 	"properties": {
 		"activities": [
 			{
