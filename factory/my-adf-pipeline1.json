@@ -1,0 +1,9 @@
+{
+	"name": "my-adf-pipeline1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c15e054-fca0-452a-959d-2437c2d39e5d",
+		"tenantId": "e6768821-d7ae-4bcf-824f-9dbb5b4733f3"
+	}
+}
